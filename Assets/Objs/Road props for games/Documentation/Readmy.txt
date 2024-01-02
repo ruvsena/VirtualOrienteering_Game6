@@ -1,0 +1,39 @@
+Group 9 : SAYE Virtual Orienteering
+A small test set of virtual orienteering game.
+
+24 road environment 3D Models. Non overlapping UV Layout map provided in the package.
+Game Ready model with excellent detail.
+1 textures in a box
+Low Poly
+
+Meshes (FBX):
+Polygon count of all: 1758
+RoadSign_A_circle - 25  polygons
+RoadSign_Polygon - 24
+RoadSign_Triangular - 19
+BarrierFence - 217
+BarrierFence2 - 251
+BarrierFence_L - 126
+BarrierFence_T - 242
+Tetrapod - 28
+TetrapodUp - 70
+Benche - 159
+Urn - 20
+Urn_2 - 48
+Border - 8
+Border_2 - 11
+Hemisphere - 52
+SpeedBump - 70
+SpeedBump_2 - 18
+TrafficCone - 125
+Piles - 10
+Road_slab - 72
+Road_slab_2 - 22
+Road_bumper - 14
+PlasticSignalBollard - 38
+PlasticSignalBollard_2 - 87
+
+512 and 2k resolution textures include:
+diffuse
+
+Tris only geometries (no quads/ngons).
